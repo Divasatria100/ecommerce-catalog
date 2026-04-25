@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+:root {
+    /* Theme Colors - Men's Category */
+    --primary-men: #002772;
+    --bg-men: #D6E6FF;
+    
+    /* Theme Colors - Women's Category */
+    --primary-women: #720060;
+    --bg-women: #FDE2FF;
+    
+    /* Neutral Colors */
+    --text-primary: #1E1E1E;
+    --text-secondary: #3F3F3F;
+    --neutral-light: #DCDCDC;
+    --surface-white: #ffffff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+    min-height: 832px;
+    font-family: "Inter", sans-serif;
+}
