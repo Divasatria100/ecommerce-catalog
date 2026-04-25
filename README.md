@@ -1,4 +1,4 @@
-# Katalog Produk E-Commerce
+# Final Task Core Initiative VIX Front End
 
 Aplikasi showcase produk sederhana yang dibangun dengan Vue 2 sebagai bagian dari Final Task Core Initiative VIX Front End. Proyek ini menampilkan produk pakaian dari API eksternal dengan tema dinamis berdasarkan kategori produk.
 
